@@ -15,3 +15,4 @@ Demo logins: student@sru.edu / Student@123, tech@sru.edu / Tech@123, admin@sru.e
 
 ## Kubernetes (Docker Desktop / minikube)
 `kubectl apply -f k8s/deployment.yaml` -> open http://localhost:30080 (minikube: `minikube service fixit-hostel`)
+Deployed using Docker and Kubernetes.
